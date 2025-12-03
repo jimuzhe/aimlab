@@ -1,0 +1,5 @@
+{
+  "name": "React Aim Trainer 3D",
+  "description": "A high-performance 3D aim trainer inspired by Aim Lab. Features first-person movement, visible weapon model, dynamic target spawning, and accuracy tracking.",
+  "requestFramePermissions": []
+}
